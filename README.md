@@ -1,3 +1,12 @@
+<code>This repo clone was made because I was looking the page http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely but the domain registration had expired and the links to the page all over the web were broken. Finally I found a backup of the content and made this fork as a mirror of http://diveintomark.org/archives/</code>
+
+- - - - - - - - - - - -
+[Here is the mirror of http://diveintomark.org/archives.html](http://ljv5555.github.io/diveintomark/archives.html)
+- - - - - - - - - - - -
+[Here is a mirror of http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely](http://ljv5555.github.io/diveintomark/archives/2003/06/12/how_to_consume_rss_safely)
+
+- - - - - - - - - - - -
+
 # Dive Into Mark
 
 This is an archive of [Dive Into Mark.](http://diveintomark.org/)
