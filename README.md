@@ -3,7 +3,7 @@
 - - - - - - - - - - - -
 [Here is the mirror of http://diveintomark.org/archives.html](http://ljv5555.github.io/diveintomark/archives.html)
 - - - - - - - - - - - -
-[Here is a mirror of http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely](http://ljv5555.github.io/diveintomark/archives/2003/06/12/how_to_consume_rss_safely)
+[Here is a mirror of http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely](archive-html/2b3143a43f07a6cbf9dc0ccca3bc870e44872618.html)
 
 - - - - - - - - - - - -
 
